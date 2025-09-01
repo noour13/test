@@ -7,5 +7,7 @@ v2
 
 v3
 saba
+
+fetch vs pull
     
 
